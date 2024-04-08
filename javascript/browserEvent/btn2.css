@@ -1,0 +1,13 @@
+#btn2{
+    background-color: rgba(215, 215, 123, 0.931);
+    color: rgb(254, 253, 252);
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid rgb(226, 235, 102);
+    border-radius: 9px;
+    height: 5vh;
+    width: 9vw;
+    font-size: 25px;
+    
+
+}
